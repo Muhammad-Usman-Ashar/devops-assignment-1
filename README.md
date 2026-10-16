@@ -20,3 +20,6 @@ I learned that Git is a version control system used to track changes in files an
 ## Tools Used
 - GitHub website
 - Web browser
+
+## Branch Practice
+“Add branch practice note
